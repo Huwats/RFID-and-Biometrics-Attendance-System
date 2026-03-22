@@ -1,0 +1,4 @@
+# Ignore Python cache and logs
+*.json
+*.txt
+__pycache__/
